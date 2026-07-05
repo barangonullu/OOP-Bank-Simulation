@@ -2,7 +2,7 @@
 
 This repository contains a two-part Object-Oriented Programming (OOP) banking simulation project. It demonstrates the iterative development of a system, evolving from basic inheritance models to an advanced architecture utilizing abstract classes and custom exception handling.
 
-## 📁 Project Structure
+## Project Structure
 
 The project is divided into two main phases:
 
